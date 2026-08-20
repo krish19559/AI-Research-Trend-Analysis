@@ -1,0 +1,9 @@
+source,sector,theme,solution,usability,technical_maturity,implementation_effort,impact_potential
+AI4Education,education,generative_ai,Adaptive learning assistant,4,4,3,5
+AI4Education,education,automation,Teacher workflow automation,5,4,4,5
+Zenith,media,computer_vision,Fashion image analysis,4,4,3,4
+JERK,fashion,predictive_ai,Trend forecasting,4,3,4,5
+MusicLabelAI,music,generative_ai,Prompt-to-music generation,4,3,4,4
+AIInsight,education,ai_skilling,AI skills learning platform,5,4,2,4
+OpenAI ecosystem,education,conversational_ai,Study assistant,5,5,3,5
+Hugging Face ecosystem,social,open_models,Open-source model experimentation,4,5,3,4
